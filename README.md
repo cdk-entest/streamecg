@@ -13,4 +13,15 @@
 
 
 
-**Signal Processing Algorithm**
+**Signal Processing**
+ECG signal 
+
+![ecg_signal](https://user-images.githubusercontent.com/20411077/159957097-943c8568-a9b7-4fed-adbf-05e018096a15.png)
+
+Cepstrum and heart rate 
+
+![cepstrum_heart_rate](https://user-images.githubusercontent.com/20411077/159957148-a73b328b-e9b1-45a4-a50a-bc8aa8579d63.png)
+
+**Improve algorithm by Matrix Factorization**
+
+![cepstrum_matrix](https://user-images.githubusercontent.com/20411077/159957311-d04bfed6-3e1a-4f67-b4f2-ff68feae6661.png)
