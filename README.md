@@ -1,4 +1,4 @@
-# An Algorithm for Real time Electrocardiography Processing 
+# Real time Electrocardiography Processing 
 
 **Summary**
 
